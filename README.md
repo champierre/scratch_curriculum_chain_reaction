@@ -32,28 +32,28 @@ MITのワークショップでおこなわれたアイスブレイクです。
 
 明るさによってオンオフされるスイッチをスクラッチ上につくる。
 
-![](./light_sensor.gif)
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/light_sensor.gif)
 
-![](light_sensor_costumes.png)
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/light_sensor_costumes.png)
 
 ## 3. LED を点灯させる簡単なプロジェクト（20分）
 LED を7番8番ピンに接続(8番のほうに長い端子)、Motion から motor on と motor direction ブロックをドラッグしてきてつなげ、motor direction を that way に変更し、クリックして LED が点灯することを確認する。
 
-![](led_on_off.gif)
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_on_off.gif)
 
 消すには motor off をクリックする。
 
 このプロックを利用して、ボタンを押したら LED が点灯する簡単なプロジェクトを作成する。
 
-![](led_switch.gif)
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_switch.gif)
 
 ボタンのコスチュームには、スクラッチ標準コスチュームから、Things > button と buttonPressed を利用する。 
 
-![](led_switch_costumes.png)
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_switch_costumes.png)
 
 ## 4. 上記2. 3.を組み合わせ、手をかざせば LED が点く「超能力マシーン」をつくる（20分）
 
-![](force.gif)
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/force.gif)
 
 ## 5. ピタゴラスイッチマシーンをつくる(60分)
 参加者全員の机を輪の形に並べ替える。
@@ -65,7 +65,7 @@ LED を7番8番ピンに接続(8番のほうに長い端子)、Motion から mot
 明るさセンサの値が高くなったら起動し、プロジェクトが終了するタイミングで LED を点灯させるプロジェクトをつくる。
 
 プロジェクト例 明るさセンサの値が高くなると転がり出すボール ↓
-![](rolling_ball.png)
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/rolling_ball.png)
 
 ## 6. テスト(40分)
 まずは自分のプロジェクトがちゃんと動くまでテスト。

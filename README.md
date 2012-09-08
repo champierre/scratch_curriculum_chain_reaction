@@ -32,7 +32,7 @@ MITのワークショップでおこなわれたアイスブレイクです。
 
 明るさによってオンオフされるスイッチをスクラッチ上につくる。
 
-![](light_sensor.gif)
+![](./light_sensor.gif)
 
 ![](light_sensor_costumes.png)
 

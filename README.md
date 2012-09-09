@@ -44,11 +44,13 @@ MITのワークショップでおこなわれたアイスブレイクです。
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/light_sensor_costumes.png)
 
 ## 3. LED を点灯させる簡単なプロジェクト（20分）
-LED を7番8番ピンに接続(8番のほうに長い端子)、Motion から motor on と motor direction ブロックをドラッグしてきてつなげ、motor direction を that way に変更し、クリックして LED が点灯することを確認する。
+LED を9番ピンとGNDに接続(9番のほうに長い端子)、Motion の motor on と motor off ブロックで LED を on/off できることを確認する。
+
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_connection.jpg)
+
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_connection2.jpg)
 
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_on_off.gif)
-
-消すには motor off をクリックする。
 
 このプロックを利用して、ボタンを押したら LED が点灯する簡単なプロジェクトを作成する。
 

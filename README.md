@@ -1,13 +1,13 @@
-# スクラッチでピタゴラスイッチマシーンを作ろう
+# スクラッチでピタゴラ装置を作ろう
 
 ## LICENSE
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">スクラッチでピタゴラスイッチマシーンを作ろう</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Junya Ishihara</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">スクラッチでピタゴラ装置を作ろう</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">OtOMO</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
 
 ## 概要
 
 Scratch@MIT 2012 でおこなわれた [Pre-Conference Workshops](http://events.scratch.mit.edu/conference/workshops.html)
-のうちのひとつ、Physical-Digital Chain Reaction: WeDo and Scratch を参考にしたワークショップです。
+のうちのひとつ、Physical-Digital Chain Reaction: WeDo and Scratch を参考にし、OtOMO主催でおこなわれた [9月定期ワークショップ「スクラッチでピタゴラスイッチマシーンを作ろう」](http://scratch-ja.org/2012/08/1815)のために用意したワークショップの手引きです。
 
 スクラッチになのぼーどAGをつなげ、光センサとLEDの点灯を制御して光のリレーをおこなうことで、テレビ「ピタゴラスイッチ」にでてくるようなマシーンを参加者全員のスクラッチをつなげて作ります。
 
@@ -15,9 +15,16 @@ Scratch@MIT 2012 でおこなわれた [Pre-Conference Workshops](http://events.
 
 これを全員のスクラッチをつなげておこなうことで、一番左端のマシンから一番右端のマシンまで次々と伝わるピタゴラスイッチマシーンがスクラッチ上に完成します。
 
-## 環境構築
+## 必要なもの
+* なのぼーどAG ([http://tiisai.dip.jp/?page_id=935](http://tiisai.dip.jp/?page_id=935))
+* NanoBoardAGWithMotor (ダウンロードとインストール方法は [http://swikis.ddo.jp/WorldStethoscope/46](http://swikis.ddo.jp/WorldStethoscope/46) を参照してください)
+* LED。+-両端子にリード線を接続、リード線のもう一方にはピンに刺せるよう針金をつける。LED の先端には切ったストローをかぶせると、となりのぼーどの明るさセンサにちょうど接続できる。
 
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led.jpg)
+↑LED の先端には切ったストローをかぶせる
 
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led2.jpg)
+↑リード線のもう一方にはピンに刺せるよう針金をつける
 
 ## 1. アイスブレイク（10分）
 
@@ -74,7 +81,7 @@ LED につなげたリード線を9番ピンとGNDに接続(9番のほうに長�
 
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/force.gif)
 
-## 5. ピタゴラスイッチマシーンをつくる(60分)
+## 5. ピタゴラ装置をつくる(60分)
 参加者全員の机を輪の形に並べ替える。
 
 左隣の人のなのぼーどから LED を伸ばしてきて、自分の明るさセンサに接続する。

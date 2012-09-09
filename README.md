@@ -15,6 +15,10 @@ Scratch@MIT 2012 でおこなわれた [Pre-Conference Workshops](http://events.
 
 これを全員のスクラッチをつなげておこなうことで、一番左端のマシンから一番右端のマシンまで次々と伝わるピタゴラスイッチマシーンがスクラッチ上に完成します。
 
+## 環境構築
+
+
+
 ## 1. アイスブレイク（10分）
 
 MITのワークショップでおこなわれたアイスブレイクです。
@@ -33,7 +37,9 @@ MITのワークショップでおこなわれたアイスブレイクです。
 
 なのぼーどAG とスクラッチをつなげる。
 
-まずは接続テスト。調べる > スライダーセンサの値 の上で右クリックして「ScratchBoard監視板の表示」を選ぶ。
+まずは接続テスト。「調べる」> 「スライダーセンサの値」の横のチェックボックスをチェックしてボードを自動検出させる。
+
+「スライダーセンサの値」上で右クリックして「ScratchBoard監視板の表示」を選ぶ。
 
 スライダーを動かしたり、明るさセンサの上に手をかざしたりして、各センサーの値が変わることを確認する。
 
@@ -44,7 +50,7 @@ MITのワークショップでおこなわれたアイスブレイクです。
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/light_sensor_costumes.png)
 
 ## 3. LED を点灯させる簡単なプロジェクト（20分）
-LED を9番ピンとGNDに接続(9番のほうに長い端子)、Motion の motor on と motor off ブロックで LED を on/off できることを確認する。
+LED につなげたリード線を9番ピンとGNDに接続(9番のほうに長い端子(+))、動きの「モーターをオンにする」と「モーターをオフにする」ブロックで LED を on/off できることを確認する。
 
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_connection.jpg)
 
@@ -56,11 +62,15 @@ LED を9番ピンとGNDに接続(9番のほうに長い端子)、Motion の moto
 
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_switch.gif)
 
-ボタンのコスチュームには、スクラッチ標準コスチュームから、Things > button と buttonPressed を利用する。 
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_switch2.gif)
 
-![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_switch_costumes.png)
+ボタンのコスチュームには、スクラッチ標準コスチュームから、Things > button を利用する。 
+
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_switch_costumes.gif)
 
 ## 4. 上記2. 3.を組み合わせ、手をかざせば LED が点く「超能力マシーン」をつくる（20分）
+
+時間が足りない場合は省略可能。
 
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/force.gif)
 
@@ -71,7 +81,7 @@ LED を9番ピンとGNDに接続(9番のほうに長い端子)、Motion の moto
 
 自分の LED を伸ばし右隣の人の明るさセンサと接続する。
 
-明るさセンサの値が高くなったら起動し、プロジェクトが終了するタイミングで LED を点灯させるプロジェクトをつくる。
+明るさセンサの値が高くなったら左端からボールが転がり始め、右端にボールが着いたら、LED を点灯させるプロジェクトをつくる。
 
 プロジェクト例 明るさセンサの値が高くなると転がり出すボール ↓
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/rolling_ball.png)
@@ -92,3 +102,5 @@ LED を9番ピンとGNDに接続(9番のほうに長い端子)、Motion の moto
 
 できればビデオ撮影してあとでビデオを公開する。
 
+## 8. 自由製作
+最初(明るさセンサの値で左端よりボールを転がし始める)と最後(右端にボールがたどりついたらLEDを点灯させる)の部分は変更せず、その間はどんな動きをさせてもよいという条件で自由にプロジェクトを変更する。

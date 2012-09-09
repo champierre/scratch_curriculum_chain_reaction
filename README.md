@@ -48,8 +48,6 @@ LED を9番ピンとGNDに接続(9番のほうに長い端子)、Motion の moto
 
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_connection.jpg)
 
-<img src="https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_connection.jpg" width="400">
-
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_connection2.jpg)
 
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_on_off.gif)

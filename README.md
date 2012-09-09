@@ -21,9 +21,11 @@ Scratch@MIT 2012 でおこなわれた [Pre-Conference Workshops](http://events.
 * LED。+-両端子にリード線を接続、リード線のもう一方にはピンに刺せるよう針金をつける。LED の先端には切ったストローをかぶせると、となりのぼーどの明るさセンサにちょうど接続できる。
 
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led.jpg)
+
 ↑LED の先端には切ったストローをかぶせる
 
 ![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led2.jpg)
+
 ↑リード線のもう一方にはピンに刺せるよう針金をつける
 
 ## 1. アイスブレイク（10分）
@@ -73,7 +75,7 @@ LED につなげたリード線を9番ピンとGNDに接続(9番のほうに長�
 
 ボタンのコスチュームには、スクラッチ標準コスチュームから、Things > button を利用する。 
 
-![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_switch_costumes.gif)
+![](https://raw.github.com/champierre/scratch_curriculum_chain_reaction/master/led_switch_costumes.png)
 
 ## 4. 上記2. 3.を組み合わせ、手をかざせば LED が点く「超能力マシーン」をつくる（20分）
 

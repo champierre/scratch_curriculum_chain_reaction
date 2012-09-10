@@ -15,9 +15,9 @@ Scratch@MIT 2012 でおこなわれた [Pre-Conference Workshops](http://events.
 
 これを全員のスクラッチをつなげておこなうことで、一番左端のマシンから一番右端のマシンまで次々と伝わるピタゴラ装置ンがスクラッチ上に完成します。
 
-以下、実際のワークショップで完成した作品です。
+リンク先は、実際のワークショップで完成した作品の動画です。
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/xn45hHlXD4E" frameborder="0" allowfullscreen></iframe>
+&raquo; [Scratch x nanoboard Rube Goldberg machine (OtOMO Workshop)](http://youtu.be/xn45hHlXD4E)
 
 
 ## 必要なもの

@@ -15,6 +15,11 @@ Scratch@MIT 2012 でおこなわれた [Pre-Conference Workshops](http://events.
 
 これを全員のスクラッチをつなげておこなうことで、一番左端のマシンから一番右端のマシンまで次々と伝わるピタゴラ装置ンがスクラッチ上に完成します。
 
+以下、実際のワークショップで完成した作品です。
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/xn45hHlXD4E" frameborder="0" allowfullscreen></iframe>
+
+
 ## 必要なもの
 * なのぼーどAG ([http://tiisai.dip.jp/?page_id=935](http://tiisai.dip.jp/?page_id=935))
 * NanoBoardAGWithMotor (ダウンロードとインストール方法は [http://swikis.ddo.jp/WorldStethoscope/46](http://swikis.ddo.jp/WorldStethoscope/46) を参照してください)
